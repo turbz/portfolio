@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "http://localhost:3000/static/css/main.428a18cb.chunk.css",
-    "main.js": "http://localhost:3000/static/js/main.6cb13aa3.chunk.js",
-    "main.js.map": "http://localhost:3000/static/js/main.6cb13aa3.chunk.js.map",
-    "runtime-main.js": "http://localhost:3000/static/js/runtime-main.dc0b8734.js",
-    "runtime-main.js.map": "http://localhost:3000/static/js/runtime-main.dc0b8734.js.map",
-    "static/js/2.427b565a.chunk.js": "http://localhost:3000/static/js/2.427b565a.chunk.js",
-    "static/js/2.427b565a.chunk.js.map": "http://localhost:3000/static/js/2.427b565a.chunk.js.map",
-    "static/js/3.b5c6b428.chunk.js": "http://localhost:3000/static/js/3.b5c6b428.chunk.js",
-    "static/js/3.b5c6b428.chunk.js.map": "http://localhost:3000/static/js/3.b5c6b428.chunk.js.map",
-    "index.html": "http://localhost:3000/index.html",
-    "static/css/main.428a18cb.chunk.css.map": "http://localhost:3000/static/css/main.428a18cb.chunk.css.map",
-    "static/js/2.427b565a.chunk.js.LICENSE.txt": "http://localhost:3000/static/js/2.427b565a.chunk.js.LICENSE.txt"
+    "main.css": "https://turbz.github.io/portfolio/static/css/main.428a18cb.chunk.css",
+    "main.js": "https://turbz.github.io/portfolio/static/js/main.75fb7377.chunk.js",
+    "main.js.map": "https://turbz.github.io/portfolio/static/js/main.75fb7377.chunk.js.map",
+    "runtime-main.js": "https://turbz.github.io/portfolio/static/js/runtime-main.cedc3631.js",
+    "runtime-main.js.map": "https://turbz.github.io/portfolio/static/js/runtime-main.cedc3631.js.map",
+    "static/js/2.427b565a.chunk.js": "https://turbz.github.io/portfolio/static/js/2.427b565a.chunk.js",
+    "static/js/2.427b565a.chunk.js.map": "https://turbz.github.io/portfolio/static/js/2.427b565a.chunk.js.map",
+    "static/js/3.b5c6b428.chunk.js": "https://turbz.github.io/portfolio/static/js/3.b5c6b428.chunk.js",
+    "static/js/3.b5c6b428.chunk.js.map": "https://turbz.github.io/portfolio/static/js/3.b5c6b428.chunk.js.map",
+    "index.html": "https://turbz.github.io/portfolio/index.html",
+    "static/css/main.428a18cb.chunk.css.map": "https://turbz.github.io/portfolio/static/css/main.428a18cb.chunk.css.map",
+    "static/js/2.427b565a.chunk.js.LICENSE.txt": "https://turbz.github.io/portfolio/static/js/2.427b565a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc0b8734.js",
+    "static/js/runtime-main.cedc3631.js",
     "static/js/2.427b565a.chunk.js",
     "static/css/main.428a18cb.chunk.css",
-    "static/js/main.6cb13aa3.chunk.js"
+    "static/js/main.75fb7377.chunk.js"
   ]
 }

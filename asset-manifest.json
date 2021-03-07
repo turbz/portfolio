@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://turbz.github.io/portfolio/static/css/main.428a18cb.chunk.css",
-    "main.js": "https://turbz.github.io/portfolio/static/js/main.75fb7377.chunk.js",
-    "main.js.map": "https://turbz.github.io/portfolio/static/js/main.75fb7377.chunk.js.map",
+    "main.js": "https://turbz.github.io/portfolio/static/js/main.9b09e5ab.chunk.js",
+    "main.js.map": "https://turbz.github.io/portfolio/static/js/main.9b09e5ab.chunk.js.map",
     "runtime-main.js": "https://turbz.github.io/portfolio/static/js/runtime-main.cedc3631.js",
     "runtime-main.js.map": "https://turbz.github.io/portfolio/static/js/runtime-main.cedc3631.js.map",
     "static/js/2.427b565a.chunk.js": "https://turbz.github.io/portfolio/static/js/2.427b565a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cedc3631.js",
     "static/js/2.427b565a.chunk.js",
     "static/css/main.428a18cb.chunk.css",
-    "static/js/main.75fb7377.chunk.js"
+    "static/js/main.9b09e5ab.chunk.js"
   ]
 }

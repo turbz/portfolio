@@ -1,19 +1,24 @@
 {
   "files": {
-    "main.css": "https://turbz.github.io/portfolio/static/css/main.9a214eaa.chunk.css",
-    "main.js": "https://turbz.github.io/portfolio/static/js/main.c4f0d46b.chunk.js",
-    "runtime-main.js": "https://turbz.github.io/portfolio/static/js/runtime-main.358a23a5.js",
-    "static/js/2.d2d4acc6.chunk.js": "https://turbz.github.io/portfolio/static/js/2.d2d4acc6.chunk.js",
-    "static/js/3.6206d485.chunk.js": "https://turbz.github.io/portfolio/static/js/3.6206d485.chunk.js",
+    "main.css": "https://turbz.github.io/portfolio/static/css/main.18b2ea6d.chunk.css",
+    "main.js": "https://turbz.github.io/portfolio/static/js/main.ecbae0e3.chunk.js",
+    "runtime-main.js": "https://turbz.github.io/portfolio/static/js/runtime-main.481316d6.js",
+    "static/js/2.05831a2e.chunk.js": "https://turbz.github.io/portfolio/static/js/2.05831a2e.chunk.js",
+    "static/js/3.fe4dbee8.chunk.js": "https://turbz.github.io/portfolio/static/js/3.fe4dbee8.chunk.js",
     "index.html": "https://turbz.github.io/portfolio/index.html",
-    "static/js/2.d2d4acc6.chunk.js.LICENSE.txt": "https://turbz.github.io/portfolio/static/js/2.d2d4acc6.chunk.js.LICENSE.txt",
+    "static/js/2.05831a2e.chunk.js.LICENSE.txt": "https://turbz.github.io/portfolio/static/js/2.05831a2e.chunk.js.LICENSE.txt",
     "static/media/IEC_Icon.b1afee1d.svg": "https://turbz.github.io/portfolio/static/media/IEC_Icon.b1afee1d.svg",
-    "static/media/logo-icon.96b7d6ac.svg": "https://turbz.github.io/portfolio/static/media/logo-icon.96b7d6ac.svg"
+    "static/media/correct.f2eddae8.svg": "https://turbz.github.io/portfolio/static/media/correct.f2eddae8.svg",
+    "static/media/down-arrow.858ea490.svg": "https://turbz.github.io/portfolio/static/media/down-arrow.858ea490.svg",
+    "static/media/logo-icon.96b7d6ac.svg": "https://turbz.github.io/portfolio/static/media/logo-icon.96b7d6ac.svg",
+    "static/media/Sidebar.css": "https://turbz.github.io/portfolio/static/media/sm-avatar.2ba75ddf.jpg",
+    "static/media/store.3562f7a5.svg": "https://turbz.github.io/portfolio/static/media/store.3562f7a5.svg",
+    "static/media/timer.5ff974cb.svg": "https://turbz.github.io/portfolio/static/media/timer.5ff974cb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.358a23a5.js",
-    "static/js/2.d2d4acc6.chunk.js",
-    "static/css/main.9a214eaa.chunk.css",
-    "static/js/main.c4f0d46b.chunk.js"
+    "static/js/runtime-main.481316d6.js",
+    "static/js/2.05831a2e.chunk.js",
+    "static/css/main.18b2ea6d.chunk.css",
+    "static/js/main.ecbae0e3.chunk.js"
   ]
 }
